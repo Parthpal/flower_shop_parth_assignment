@@ -144,17 +144,18 @@ body{
     margin-left:190px;
 }
 .deal_banner_image{
-    margin:100px 270px 100px 0px;*/
+    margin:100px 270px 100px 0px;
 }
 .deal-summary-span{
     color:#E55473;
 }
 .featured-flower{
-    max-width: 1196px;
+    
 }
 .Instagram-flower-display{
-    margin-left: 150px;
+    margin-left: 80px;
     margin-top: 40px;
+    max-width: 1196px;
     
 }
 .Instagram-flower-display img{
