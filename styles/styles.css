@@ -153,7 +153,7 @@ body{
     
 }
 .Instagram-flower-display{
-    margin-left: 80px;
+    margin-left: 150px;
     margin-top: 40px;
     max-width: 1196px;
     
@@ -161,13 +161,16 @@ body{
 .Instagram-flower-display img{
     width: 250px;
     height: 300px;
-    margin-right: 10px;
+    margin-right: 20px;   
+}
+.insta-flower-0-margin{
+    margin-right: 0px;
 }
 .deal-email-banner{
     background-image: url('../assets/images/Rectangle\ 9.png');
     background-repeat: no-repeat;
-    background-size: 1250px;
-    margin: 0px 90px 0px 150px;
+    background-size: 1196px;
+    margin: 0px 0px 0px 80px;
 }
 
 .deal-banner-top{
@@ -175,7 +178,7 @@ body{
     padding-top: 50px ;
 }
 .email-deal{
-    margin-left: 300px;
+      margin-left: 300px;
       margin-top: 30px;
       padding-bottom: 80px;
       
