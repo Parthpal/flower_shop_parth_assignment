@@ -38,9 +38,7 @@ body{
     font-weight: 400;
 }
 /* featured flower section */
-.featured-flower{
-    
-}
+
 .featured-flower-top{
     text-align: center;
     margin-top: 100px;
@@ -92,6 +90,22 @@ body{
     font-size: 23px;
     font-weight: 400;
     text-decoration-line: underline; 
+}
+
+.flowers-support-section{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #F4F4F4;
+    width:  1220px;
+    height: 300px;
+    margin-left: 150px;
+    
+}
+.flowers-delivery{
+    align-items: center;
+    padding-left: 150px;
+    text-align: center;
 }
 .deal-banner{
     background-color: #FCEEF1;
@@ -205,13 +219,4 @@ padding-top: 80px;
     font-weight: 400;
 
 }
-.flower-shop-video{
-    background: url('../assets/videos/flower-shop.mp4');
-}
-/*
-  border-radius: 120px 120px 0px 0px;
-  background: #F2DEE7;
-  padding: 20px; 
-  width: 200px;
-  height: 250px; 
-  */
+
