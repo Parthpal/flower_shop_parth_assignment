@@ -205,6 +205,9 @@ padding-top: 80px;
     font-weight: 400;
 
 }
+.flower-shop-video{
+    background: url('../assets/videos/flower-shop.mp4');
+}
 /*
   border-radius: 120px 120px 0px 0px;
   background: #F2DEE7;
